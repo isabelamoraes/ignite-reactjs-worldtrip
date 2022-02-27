@@ -1,5 +1,5 @@
 <h1 align="center">
-  worldtrip
+  World Trip
 </h1>
 
 <h4 align="center">
