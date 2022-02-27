@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Your image upload site
+  Five continents, infinite possibilities
 </h4>
 
 <p align="center">
